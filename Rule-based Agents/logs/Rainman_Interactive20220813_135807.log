@@ -1,0 +1,23 @@
+
+please choose your bet value (1,2,5, or 10)
+10
+initial house cards: 3 + ??
+initial agent cards: 10 + 10
+Current hand value: 20 Would you like to Hit or Stay?
+hit
+You drew a 4
+House total: 7
+Agent total: 24
+bust! you lose this round
+current bank amount: $90.0
+Continue Playing?
+n
+You have chosen not to continue playing
+total games played: 1
+total wins so far: 0
+Perecentage wins: 0.0%
+Perecentage wins (excluding ties): 0.0%
+total rewards: -10.0
+wins: 0 losses: 1 ties: 0
+maximum gain during playing: $0.0
+maximum winning streak: 0.0

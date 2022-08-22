@@ -1,0 +1,211 @@
+
+please choose your bet value (1,2,5, or 10)
+10
+initial house cards: 6 + ??
+initial agent cards: 6 + 3
+Current hand value: 9 There is a 0% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 10
+Current hand value: 19 There is a 84.62% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 10
+House total: 11
+Agent total: 29
+bust! you lose this round
+current bank amount: $90.0
+Continue Playing?
+y
+Would you like to keep the same bet amount?
+y
+initial house cards: 2 + ??
+initial agent cards: 7 + 9
+Current hand value: 16 There is a 61.54% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 11
+Total with ace as 11: 27
+Total with ace as 1: 17
+Would you like to change your ace value to a 1?
+n
+House total: 4
+Agent total: 27
+bust! you lose this round
+current bank amount: $80.0
+Continue Playing?
+y
+Would you like to keep the same bet amount?
+y
+initial house cards: 3 + ??
+initial agent cards: 5 + 9
+Current hand value: 14 There is a 46.15% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 10
+House total: 9
+Agent total: 24
+bust! you lose this round
+current bank amount: $70.0
+Continue Playing?
+y
+Would you like to keep the same bet amount?
+y
+initial house cards: 4 + ??
+initial agent cards: 10 + 3
+Current hand value: 13 There is a 38.46% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 3
+Current hand value: 16 There is a 61.54% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 10
+House total: 9
+Agent total: 26
+bust! you lose this round
+current bank amount: $60.0
+Continue Playing?
+y
+Would you like to keep the same bet amount?
+y
+initial house cards: 10 + ??
+initial agent cards: 9 + 3
+Current hand value: 12 There is a 30.77% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 10
+House total: 20
+Agent total: 22
+bust! you lose this round
+current bank amount: $50.0
+Continue Playing?
+y
+Would you like to keep the same bet amount?
+y
+initial house cards: 10 + ??
+initial agent cards: 7 + 8
+Current hand value: 15 There is a 53.85% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 9
+House total: 20
+Agent total: 24
+bust! you lose this round
+current bank amount: $40.0
+Continue Playing?
+y
+Would you like to keep the same bet amount?
+y
+initial house cards: 4 + ??
+initial agent cards: 6 + 5
+Current hand value: 11 There is a 0% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 7
+Current hand value: 18 There is a 76.92% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 3
+You've hit the max without going over! Let's see what the house has
+House total: 23
+Agent total: 21
+You win!
+current bank amount: $50.0
+Continue Playing?
+y
+Would you like to keep the same bet amount?
+y
+initial house cards: 8 + ??
+initial agent cards: 10 + 8
+Current hand value: 18 There is a 76.92% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 11
+Total with ace as 11: 29
+Total with ace as 1: 19
+Would you like to change your ace value to a 1?
+n
+House total: 16
+Agent total: 29
+bust! you lose this round
+current bank amount: $40.0
+Continue Playing?
+y
+Would you like to keep the same bet amount?
+y
+initial house cards: 10 + ??
+initial agent cards: 7 + 6
+Current hand value: 13 There is a 38.46% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 10
+House total: 18
+Agent total: 23
+bust! you lose this round
+current bank amount: $30.0
+Continue Playing?
+y
+Would you like to keep the same bet amount?
+y
+initial house cards: 6 + ??
+initial agent cards: 5 + 2
+Current hand value: 7 There is a 0% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 11
+Total with ace as 11: 18
+Total with ace as 1: 8
+Would you like to change your ace value to a 1?
+n
+Current hand value: 18 There is a 76.92% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 9
+Total with ace as 11: 27
+Total with ace as 1: 17
+Would you like to change your ace value to a 1?
+n
+House total: 13
+Agent total: 27
+bust! you lose this round
+current bank amount: $20.0
+Continue Playing?
+y
+Would you like to keep the same bet amount?
+y
+initial house cards: 9 + ??
+initial agent cards: 10 + 10
+Current hand value: 20 There is a 92.31% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 5
+House total: 19
+Agent total: 25
+bust! you lose this round
+current bank amount: $10.0
+Continue Playing?
+y
+Would you like to keep the same bet amount?
+y
+initial house cards: 9 + ??
+initial agent cards: 7 + 10
+Current hand value: 17 There is a 69.23% chance of going over if you hit
+Would you like to Hit or Stay?
+hit
+You drew a(n) 10
+House total: 11
+Agent total: 27
+bust! you lose this round
+current bank amount: $0.0
+Continue Playing?
+y
+Game Over, no money left in the bank
+total games played: 12
+total blackjacks: 0
+Perecentage wins: 8.333333333333332%
+Perecentage wins (excluding ties): 8.333333333333332%
+total rewards: -100.0
+wins: 1 losses: 11 ties: 0
+maximum gain during playing: $0.0
+maximum winning streak: 1.0

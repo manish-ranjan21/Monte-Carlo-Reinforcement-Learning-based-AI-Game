@@ -1,0 +1,25 @@
+
+please choose your bet value (1,2,5, or 10)
+10
+initial house cards: 5 + ??
+initial agent cards: 9 + 3
+Current hand value: 12 Would you like to Hit or Stay?
+hit
+You drew a 5
+Current hand value: 17 Would you like to Hit or Stay?
+stay
+House total: 22
+Agent total: 17
+you win!
+current bank amount: $110.0
+Continue Playing?
+n
+You have chosen not to continue playing
+total games played: 1
+total wins so far: 1
+Perecentage wins: 100.0%
+Perecentage wins (excluding ties): 100.0%
+total rewards: 10.0
+wins: 1 losses: 0 ties: 0
+maximum gain during playing: $10.0
+maximum winning streak: 1.0

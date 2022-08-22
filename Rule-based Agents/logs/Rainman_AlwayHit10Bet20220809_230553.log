@@ -1,0 +1,106 @@
+initial house cards: 10 + ??
+initial agent cards: 3 + 2
+Current hand value: 5 Would you like to Hit or Stay?
+You drew a 4
+Current hand value: 9 Would you like to Hit or Stay?
+You drew a 8
+Current hand value: 17 Would you like to Hit or Stay?
+You drew a 10
+House total: 26
+Agent total: 27
+bust! You lose this round
+current bank amount: $90.0
+initial house cards: 10 + ??
+initial agent cards: 10 + 6
+Current hand value: 16 Would you like to Hit or Stay?
+You drew a 11
+Current hand value: 17 Would you like to Hit or Stay?
+You drew a 5
+House total: 20
+Agent total: 22
+bust! You lose this round
+current bank amount: $80.0
+initial house cards: 9 + ??
+initial agent cards: 10 + 8
+Current hand value: 18 Would you like to Hit or Stay?
+You drew a 10
+House total: 19
+Agent total: 28
+bust! You lose this round
+current bank amount: $70.0
+initial house cards: 8 + ??
+initial agent cards: 6 + 2
+Current hand value: 8 Would you like to Hit or Stay?
+You drew a 7
+Current hand value: 15 Would you like to Hit or Stay?
+You drew a 10
+House total: 19
+Agent total: 25
+bust! You lose this round
+current bank amount: $60.0
+initial house cards: 10 + ??
+initial agent cards: 8 + 5
+Current hand value: 13 Would you like to Hit or Stay?
+You drew a 5
+Current hand value: 18 Would you like to Hit or Stay?
+You drew a 10
+House total: 24
+Agent total: 28
+bust! You lose this round
+current bank amount: $50.0
+initial house cards: 10 + ??
+initial agent cards: 9 + 11
+Current hand value: 20 Would you like to Hit or Stay?
+You drew a 7
+Current hand value: 17 Would you like to Hit or Stay?
+You drew a 3
+Current hand value: 20 Would you like to Hit or Stay?
+You drew a 9
+House total: 20
+Agent total: 29
+bust! You lose this round
+current bank amount: $40.0
+initial house cards: 11 + ??
+initial agent cards: 9 + 10
+Current hand value: 19 Would you like to Hit or Stay?
+You drew a 4
+House total: 18
+Agent total: 23
+bust! You lose this round
+current bank amount: $30.0
+initial house cards: 4 + ??
+initial agent cards: 7 + 10
+Current hand value: 17 Would you like to Hit or Stay?
+You drew a 8
+House total: 25
+Agent total: 25
+bust! You lose this round
+current bank amount: $20.0
+initial house cards: 3 + ??
+initial agent cards: 10 + 4
+Current hand value: 14 Would you like to Hit or Stay?
+You drew a 10
+House total: 23
+Agent total: 24
+bust! You lose this round
+current bank amount: $10.0
+initial house cards: 10 + ??
+initial agent cards: 2 + 11
+Current hand value: 13 Would you like to Hit or Stay?
+You drew a 3
+Current hand value: 6 Would you like to Hit or Stay?
+You drew a 10
+Current hand value: 16 Would you like to Hit or Stay?
+You drew a 6
+House total: 17
+Agent total: 22
+bust! You lose this round
+current bank amount: $0.0
+Game Over, no money left in the bank
+total games played: 10
+Perecentage wins: 0.0%
+Perecentage wins (excluding ties): 0.0%
+total rewards: -10
+wins: 0 losses: 10 ties: 0
+maximum gain during playing: $0.0
+maximum winning streak: 0.0

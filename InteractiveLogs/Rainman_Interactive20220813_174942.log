@@ -1,0 +1,27 @@
+
+please choose your bet value (1,2,5, or 10)
+50
+incorrect value, please press enter or input 1, 2, 5, 10, one, two, five, or ten
+10
+initial house cards: 11 + ??
+initial agent cards: 10 + 7
+Current hand value: 17 There is a 69.23% chance of going over if you hit
+Would you like to Hit or Stay?
+stay
+House total: 18
+Agent total: 17
+you lose
+current bank amount: $90.0
+Continue Playing?
+n
+You have chosen not to continue playing
+Ending bank value: $90.0
+total games played: 1
+total blackjacks: 0
+total wins so far: 0
+Perecentage wins: 0.0%
+Perecentage wins (excluding ties): 0.0%
+total rewards: -10.0
+wins: 0 losses: 1 ties: 0
+maximum gain during playing: $0.0
+maximum winning streak: 0.0
