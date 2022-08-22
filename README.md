@@ -1,4 +1,8 @@
-# Penn State AI801 Team9 BlackJack Project
+# Penn State AI801(Foundations of AI) Team9 BlackJack Project - 
+
+Team Members:
+*Alex Brulliea, Manish Ranjan, Virajdatt Vishaldatt Kohir 
+
 ## Scripts:
 ### Interactive Script:
 #### Rainman_Interactive
